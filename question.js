@@ -10,9 +10,9 @@ var questions = [
         answer: "parentheses"
     },
     {
-        title: "When calling an objects class which symbol is used?",
+        title: "When calling an objects ID which symbol is used?",
         choices: [".", "#", "$", "@"],
-        answer: "parentheses"
+        answer: "#"
     },
     {
         title: "Which is not code for creating a variable?",
